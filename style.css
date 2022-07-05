@@ -1,0 +1,47 @@
+body {
+  font-family: 'Gantari', sans-serif;
+}
+
+.blue-color {
+  color: blue;
+
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.p-food {
+  font-size: x-large;
+}
+
+.tom-to {
+  background-color: blue;
+  color: white;
+  height: 35px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+
+
+
+}
+
+section {
+  display: flex;
+
+
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+
+
+}
+
+.half-width img {
+
+  width: 100%;
+
+}
